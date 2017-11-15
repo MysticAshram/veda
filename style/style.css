@@ -1,0 +1,13 @@
+@charset "UTF-8";
+/* CSS Document */
+
+font-family Impact, Haettenschweiler, Franklin Gothic Bold, Arial Black, sans-serif:
+font-size: {1.1em;
+
+	
+	#guess {
+		border: 1px solid red;
+		width: 30px;
+		text-align: center;
+	}
+
